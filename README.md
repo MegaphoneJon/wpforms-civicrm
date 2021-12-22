@@ -29,7 +29,7 @@ $1 is first name, $2 is last name.
 
 * Split Address into constituent pieces:
 ```
-/(.*)\|\|(.*)\|\|(.*), (.*)\|\|(.*)\|\|(.*)\\/
+/(.*)\|\|(.*)\|\|(.*), (.*)\|\|(.*)\|\|(.*)$/
 ```
 $1 is Street Address, $2 is Street Address Line 2, $3 is City, $4 is State/Province, $5 is Postal Code, $6 is Country.
 Use the "Address: Get country ID by name/ISO code" and "Address: Get state/province ID by name" actions to get the country and state_province IDs for generating addresses.
