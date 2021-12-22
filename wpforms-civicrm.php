@@ -3,7 +3,7 @@
  * Plugin Name: WPForms CiviCRM
  * Plugin URI: http://github.com/MegaphoneJon/wpforms-civicrm
  * Description: Format WPForms webhooks to be suitable for use with CiviCRM's Form Processor extension.
- * Version: 1.0
+ * Version: 1.1
  * Author: Megaphone Technology Consulting
  * Author URI: https://www.megaphonetech.com
  */
